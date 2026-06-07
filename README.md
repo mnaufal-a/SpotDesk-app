@@ -3,8 +3,6 @@
 A full-stack mobile application for finding and booking workspaces, 
 built with React Native and Supabase.
 
-## Screenshots
-(tambahkan screenshot app kamu di sini nanti)
 
 ## Features
 - 🔐 Authentication (Login & Register)
